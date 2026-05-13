@@ -15,5 +15,5 @@ function eliminarDuplicados(arr) {
 }
 
 console.log(
-    eliminarDuplicados([1, 2, 2, 3, 4, 4,6,7,7])
+    eliminarDuplicados([1, 2, 2, 3, 4, 4])
 );
