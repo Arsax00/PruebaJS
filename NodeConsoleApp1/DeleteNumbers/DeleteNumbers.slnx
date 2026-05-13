@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="DeleteNumbers/DeleteNumbers.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
